@@ -1,5 +1,7 @@
 ## 알고리즘 문제 풀이
-<hr/>
+
+<br>
+
 ### GitHub 사용법
 * Git 설치
 * Git Bash Path 지정
